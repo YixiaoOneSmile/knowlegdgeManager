@@ -2,3 +2,4 @@
 .venv/
 .DS_Store
 apps/md_files/
+knowlege/qdrant_db
